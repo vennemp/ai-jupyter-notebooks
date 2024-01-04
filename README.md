@@ -20,6 +20,5 @@ To run these notebooks, you'll need to install Jupyter, boto3, and langchain. Yo
 pip install jupyter langchain boto3
 ```
 
-To use, open a ipynb file in VScode. All of notebooks are in python - so make sure you select your currently installed python package as the kernel after opening.
-
+To use, just clone the repo and open a ipynb file in VScode. All of notebooks are in python - so make sure you select your currently installed python package as the kernel after opening.  
 
