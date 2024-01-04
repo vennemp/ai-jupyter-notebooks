@@ -18,13 +18,8 @@ To run these notebooks, you'll need to install Jupyter. You can do this with pip
 pip install jupyter
 ```
 
-### Usage options
-1. Open a ipynb file in VScode. 
-2. Run 
+To use, open a ipynb file in VScode. All of notebooks are in python - so make sure you select your currently installed python package as the kernel after opening.
 
-```bash
-jupyter notebook
-```
 
 
 This will start the Jupyter server and open your web browser to the Jupyter interface. From there, you can open notebooks and run cells.
