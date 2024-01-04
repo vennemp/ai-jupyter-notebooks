@@ -9,6 +9,7 @@ Here is a list of the notebooks included in this repository:
 1. [`agents-bedrock-chain-lab.ipynb`](agents-bedrock-chain-lab.ipynb): This lab runs through chaining agent output together. NOT COMPLETE
 2. [`agents-bedrock-lab.ipynb`](agents-bedrock-lab.ipynb): This lab runs through building custom tools for LLM to invoke. 
 3. [`klarna-plugin-chatgpt-lab.ipynb`](klarna-plugin-chatgpt-lab.ipynb): This lab runs through using a custom third party API to enhance your LLM performance.
+4. [`bedrock-streaming-output.ipynb`](bedrock-streaming-output.ipynb): This lab goes through streaming output back to a user.
 
 ## Installation
 
