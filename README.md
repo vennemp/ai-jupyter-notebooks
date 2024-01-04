@@ -21,6 +21,3 @@ pip install jupyter
 To use, open a ipynb file in VScode. All of notebooks are in python - so make sure you select your currently installed python package as the kernel after opening.
 
 
-
-This will start the Jupyter server and open your web browser to the Jupyter interface. From there, you can open notebooks and run cells.
-
